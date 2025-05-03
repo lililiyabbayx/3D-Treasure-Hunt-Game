@@ -6,7 +6,6 @@ A 3D OpenGL-based dungeon crawler game where you must collect treasures while av
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Controls](#controls)
 - [Gameplay Rules](#gameplay-rules)
 - [Game Elements](#game-elements)
