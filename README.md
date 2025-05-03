@@ -27,21 +27,7 @@ A 3D OpenGL-based dungeon crawler game where you must collect treasures while av
 
 ![Features Overview](screenshots/features.png)
 
-## Installation
 
-1. Ensure you have Python installed on your system.
-2. Install required dependencies:
-   ```bash
-   pip install PyOpenGL PyOpenGL_accelerate
-   ```
-3. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/dungeon-crawler.git
-   ```
-4. Run the game:
-   ```bash
-   python dungeon_crawler.py
-   ```
 
 ## Controls
 
