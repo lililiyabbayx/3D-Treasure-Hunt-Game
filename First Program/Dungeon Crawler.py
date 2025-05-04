@@ -836,8 +836,8 @@ def main():
     # Initialize GLUT
     glutInit()
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH)
-    glutInitWindowSize(1000, 800)
-    glutInitWindowPosition(100, 100)
+    glutInitWindowSize(1000, 720)
+    glutInitWindowPosition(0, 0)
     wind = glutCreateWindow(b"Dungeon Crawler")
     
     # Register callbacks
